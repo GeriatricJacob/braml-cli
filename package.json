@@ -1,0 +1,20 @@
+{
+  "name": "braml-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "braml": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Towtow10",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Towtow10/braml-cli.git"
+  },
+  "dependencies": {
+    "braml": "^1.0.6"
+  }
+}
