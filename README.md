@@ -1,2 +1,2 @@
 # Usage
-`braml input.braml output.braml`
+`braml help`
